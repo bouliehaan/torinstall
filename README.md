@@ -14,4 +14,4 @@ Instructions:
   2. ./installtor.sh
   3. Type in your password for sudo and let the script do the rest
   
-  Note: You should run this as whichever user you'll be using primarily, so don't type sudo before executing the script or it will create the easy launch file in root's home directory    
+  Note: You should run this as whichever user you'll be using primarily, so don't type sudo before executing the script or it will create the easy launch file in root's home directory
